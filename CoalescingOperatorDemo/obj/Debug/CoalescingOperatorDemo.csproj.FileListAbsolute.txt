@@ -1,0 +1,10 @@
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\CoalescingOperatorDemo\bin\Debug\CoalescingOperatorDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\CoalescingOperatorDemo\bin\Debug\CoalescingOperatorDemo.pdb
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\CoalescingOperatorDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\CoalescingOperatorDemo\obj\Debug\CoalescingOperatorDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\CoalescingOperatorDemo\obj\Debug\CoalescingOperatorDemo.pdb
+C:\0Code\CSharp-Demos-1\CoalescingOperatorDemo\obj\Debug\CoalescingOperatorDemo.exe
+C:\0Code\CSharp-Demos-1\CoalescingOperatorDemo\obj\Debug\CoalescingOperatorDemo.pdb
+C:\0Code\CSharp-Demos-1\CoalescingOperatorDemo\bin\Debug\CoalescingOperatorDemo.exe
+C:\0Code\CSharp-Demos-1\CoalescingOperatorDemo\bin\Debug\CoalescingOperatorDemo.pdb
+C:\0Code\CSharp-Demos-1\CoalescingOperatorDemo\obj\Debug\ResolveAssemblyReference.cache

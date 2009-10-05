@@ -1,0 +1,10 @@
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\StripDecimal\bin\Debug\StripDecimal.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\StripDecimal\bin\Debug\StripDecimal.pdb
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\StripDecimal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\StripDecimal\obj\Debug\StripDecimal.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\StripDecimal\obj\Debug\StripDecimal.pdb
+C:\0Code\CSharp-Demos-1\StripDecimal\bin\Debug\StripDecimal.exe
+C:\0Code\CSharp-Demos-1\StripDecimal\bin\Debug\StripDecimal.pdb
+C:\0Code\CSharp-Demos-1\StripDecimal\obj\Debug\ResolveAssemblyReference.cache
+C:\0Code\CSharp-Demos-1\StripDecimal\obj\Debug\StripDecimal.exe
+C:\0Code\CSharp-Demos-1\StripDecimal\obj\Debug\StripDecimal.pdb

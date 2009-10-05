@@ -1,0 +1,10 @@
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\GZipStreamDemo\bin\Debug\GZipStreamDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\GZipStreamDemo\bin\Debug\GZipStreamDemo.pdb
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\GZipStreamDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\GZipStreamDemo\obj\Debug\GZipStreamDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\GZipStreamDemo\obj\Debug\GZipStreamDemo.pdb
+C:\0Code\CSharp-Demos-1\GZipStreamDemo\bin\Debug\GZipStreamDemo.exe
+C:\0Code\CSharp-Demos-1\GZipStreamDemo\bin\Debug\GZipStreamDemo.pdb
+C:\0Code\CSharp-Demos-1\GZipStreamDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\0Code\CSharp-Demos-1\GZipStreamDemo\obj\Debug\GZipStreamDemo.exe
+C:\0Code\CSharp-Demos-1\GZipStreamDemo\obj\Debug\GZipStreamDemo.pdb

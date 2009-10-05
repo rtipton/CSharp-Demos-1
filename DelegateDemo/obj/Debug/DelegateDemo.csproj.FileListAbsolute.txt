@@ -1,0 +1,10 @@
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DelegateDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DelegateDemo\obj\Debug\DelegateDemo.pdb
+C:\0Code\CSharp-Demos-1\DelegateDemo\bin\Debug\DelegateDemo.exe
+C:\0Code\CSharp-Demos-1\DelegateDemo\bin\Debug\DelegateDemo.pdb
+C:\0Code\CSharp-Demos-1\DelegateDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\0Code\CSharp-Demos-1\DelegateDemo\obj\Debug\DelegateDemo.exe
+C:\0Code\CSharp-Demos-1\DelegateDemo\obj\Debug\DelegateDemo.pdb

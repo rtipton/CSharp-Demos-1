@@ -1,0 +1,10 @@
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\0Code\CSharp-Demos-1\TestProject\bin\Debug\TestProject.exe
+C:\0Code\CSharp-Demos-1\TestProject\bin\Debug\TestProject.pdb
+C:\0Code\CSharp-Demos-1\TestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\0Code\CSharp-Demos-1\TestProject\obj\Debug\TestProject.exe
+C:\0Code\CSharp-Demos-1\TestProject\obj\Debug\TestProject.pdb

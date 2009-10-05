@@ -1,0 +1,10 @@
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DateTimeDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\Users\RTipton\Documents\Visual Studio 2008\Projects\TestProject\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
+C:\0Code\CSharp-Demos-1\DateTimeDemo\bin\Debug\DateTimeDemo.exe
+C:\0Code\CSharp-Demos-1\DateTimeDemo\bin\Debug\DateTimeDemo.pdb
+C:\0Code\CSharp-Demos-1\DateTimeDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\0Code\CSharp-Demos-1\DateTimeDemo\obj\Debug\DateTimeDemo.exe
+C:\0Code\CSharp-Demos-1\DateTimeDemo\obj\Debug\DateTimeDemo.pdb
